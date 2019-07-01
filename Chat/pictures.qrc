@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Chat.pro</file>
+        <file>Pictures/LoginPic2.jpg</file>
+        <file>Pictures/LeftPic.png</file>
+        <file>Pictures/RightPic.png</file>
+        <file>Pictures/background3.png</file>
+        <file>Pictures/LoginPic3.png</file>
+        <file>Pictures/bold.png</file>
+        <file>Pictures/clear.png</file>
+        <file>Pictures/italic.png</file>
+        <file>Pictures/under.png</file>
+        <file>Pictures/color.png</file>
+    </qresource>
+</RCC>
